@@ -1,0 +1,4 @@
+Units,"General Process Hazards,F1","Special Process Hazard,F2","Process Unit Hazard Factor,F3",Fire & Explosion Index,Distance of Exposure,Damage Factor,Value of Exposure Area,Base Maximum Property Damage Cost
+absorber,1.2,1.6,1.92,19.2,34.88184812754339,0.135256605056,67708200.24500766,287560.6128071751
+stripper,1.2,3.7,4.44,44.400000000000006,48.25813349139344,0.19151867340800002,26585735.012318898,159878.27161566832
+storage_tank,1.2,1.6,1.92,19.2,28.32459982143925,0.135256605056,8912425.0,37851.58053712933

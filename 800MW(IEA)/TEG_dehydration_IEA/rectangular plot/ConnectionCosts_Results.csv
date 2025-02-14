@@ -1,0 +1,7 @@
+unit i,unit j,Annual capital cost per metre of pipe (GBP/m.yr),Total Rectilinear Distance (m),Piping Cost (GBP/yr),Total Piping Cost (GBP/yr),Inner Pipe Diameter (m),Pressure Drop (N/m^2),Power of Pump (W),Pumping Cost (GBP/yr),Total Pumping Cost (GBP/yr)
+TEG_dehydration_package_T1,TEG_dehydration_package_T1,0.0,,0.0,,0.0,0.0,0.0,0.0,
+TEG_dehydration_package_T1,TEG_dehydration_package_T2,0.0,14.0,0.0,,0.0,0.0,0.0,0.0,
+TEG_dehydration_package_T2,TEG_dehydration_package_T1,0.0,14.0,0.0,,0.0,0.0,0.0,0.0,
+TEG_dehydration_package_T2,TEG_dehydration_package_T2,0.0,,0.0,,0.0,0.0,0.0,0.0,
+,,,,,0.0,,,,,
+,,,,,,,,,,0.0

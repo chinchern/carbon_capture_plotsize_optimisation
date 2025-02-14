@@ -1,0 +1,7 @@
+unit i,unit j,Annual capital cost per metre of pipe (GBP/m.yr),Total Rectilinear Distance (m),Piping Cost (GBP/yr),Total Piping Cost (GBP/yr),Inner Pipe Diameter (m),Pressure Drop (N/m^2),Power of Pump (W),Pumping Cost (GBP/yr),Total Pumping Cost (GBP/yr)
+reclaimer_1,reclaimer_1,0.0,,0.0,,0.0,0.0,0.0,0.0,
+reclaimer_1,reclaimer_2,0.0,12.0,0.0,,0.0,0.0,0.0,0.0,
+reclaimer_2,reclaimer_1,0.0,12.0,0.0,,0.0,0.0,0.0,0.0,
+reclaimer_2,reclaimer_2,0.0,,0.0,,0.0,0.0,0.0,0.0,
+,,,,,0.0,,,,,
+,,,,,,,,,,0.0
