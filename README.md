@@ -1,7 +1,8 @@
-# Minimising the Plot Size of Carbon Capture Plant:  
+![image](https://github.com/user-attachments/assets/9abf8056-7adf-4b71-8949-e6e9bba25c7a)# Minimising the Plot Size of Carbon Capture Plant:  
 ## Layout Optimisation Considering Cost and Safety Factors
 
-![CCS Layout Optimization](figures/ccs_layout.png)  
+![1739546286079-d87eb73b-d0c6-4a07-bda9-d48c4b21e2d0_1](https://github.com/user-attachments/assets/75223b89-4017-4654-9a47-11a38b19fe71)
+
 
 ## Overview  
 This repository contains research, computational models, and analysis for optimizing the land footprint of **carbon capture plants (CCPs)**. The study employs **Mixed-Integer Linear Programming (MILP)** to determine the optimal placement of process units while considering **cost and safety constraints**.
